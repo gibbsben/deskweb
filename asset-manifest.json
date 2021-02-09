@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/deskweb/static/css/main.cc91f1cb.chunk.css",
+    "main.js": "/deskweb/static/js/main.f4ba26cd.chunk.js",
+    "main.js.map": "/deskweb/static/js/main.f4ba26cd.chunk.js.map",
+    "runtime-main.js": "/deskweb/static/js/runtime-main.2db1e762.js",
+    "runtime-main.js.map": "/deskweb/static/js/runtime-main.2db1e762.js.map",
+    "static/js/2.bb074f6e.chunk.js": "/deskweb/static/js/2.bb074f6e.chunk.js",
+    "static/js/2.bb074f6e.chunk.js.map": "/deskweb/static/js/2.bb074f6e.chunk.js.map",
+    "index.html": "/deskweb/index.html",
+    "precache-manifest.e84cd5b7e5b9c02bb5fec78966564b92.js": "/deskweb/precache-manifest.e84cd5b7e5b9c02bb5fec78966564b92.js",
+    "service-worker.js": "/deskweb/service-worker.js",
+    "static/css/main.cc91f1cb.chunk.css.map": "/deskweb/static/css/main.cc91f1cb.chunk.css.map",
+    "static/js/2.bb074f6e.chunk.js.LICENSE.txt": "/deskweb/static/js/2.bb074f6e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2db1e762.js",
+    "static/js/2.bb074f6e.chunk.js",
+    "static/css/main.cc91f1cb.chunk.css",
+    "static/js/main.f4ba26cd.chunk.js"
+  ]
+}
