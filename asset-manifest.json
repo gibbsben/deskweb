@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/deskweb/static/css/main.cc91f1cb.chunk.css",
-    "main.js": "/deskweb/static/js/main.2b16e9a1.chunk.js",
-    "main.js.map": "/deskweb/static/js/main.2b16e9a1.chunk.js.map",
+    "main.css": "/deskweb/static/css/main.157bd086.chunk.css",
+    "main.js": "/deskweb/static/js/main.782f66fa.chunk.js",
+    "main.js.map": "/deskweb/static/js/main.782f66fa.chunk.js.map",
     "runtime-main.js": "/deskweb/static/js/runtime-main.2db1e762.js",
     "runtime-main.js.map": "/deskweb/static/js/runtime-main.2db1e762.js.map",
     "static/js/2.bb074f6e.chunk.js": "/deskweb/static/js/2.bb074f6e.chunk.js",
     "static/js/2.bb074f6e.chunk.js.map": "/deskweb/static/js/2.bb074f6e.chunk.js.map",
     "index.html": "/deskweb/index.html",
-    "precache-manifest.aa037b9996d9d76c95b7b1aa44544d65.js": "/deskweb/precache-manifest.aa037b9996d9d76c95b7b1aa44544d65.js",
+    "precache-manifest.249f1fa4992fdd1e430c2bce347c3148.js": "/deskweb/precache-manifest.249f1fa4992fdd1e430c2bce347c3148.js",
     "service-worker.js": "/deskweb/service-worker.js",
-    "static/css/main.cc91f1cb.chunk.css.map": "/deskweb/static/css/main.cc91f1cb.chunk.css.map",
+    "static/css/main.157bd086.chunk.css.map": "/deskweb/static/css/main.157bd086.chunk.css.map",
     "static/js/2.bb074f6e.chunk.js.LICENSE.txt": "/deskweb/static/js/2.bb074f6e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2db1e762.js",
     "static/js/2.bb074f6e.chunk.js",
-    "static/css/main.cc91f1cb.chunk.css",
-    "static/js/main.2b16e9a1.chunk.js"
+    "static/css/main.157bd086.chunk.css",
+    "static/js/main.782f66fa.chunk.js"
   ]
 }

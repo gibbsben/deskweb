@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f054e323e3606469cdcaa786fee35a49",
+    "revision": "12c5d2e4f991726ae7bb2dacd6dbc4be",
     "url": "/deskweb/index.html"
   },
   {
-    "revision": "6f31b92a03743e97992d",
-    "url": "/deskweb/static/css/main.cc91f1cb.chunk.css"
+    "revision": "07d8b767a76b910145f7",
+    "url": "/deskweb/static/css/main.157bd086.chunk.css"
   },
   {
     "revision": "cc40e76edda751f849e4",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/deskweb/static/js/2.bb074f6e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6f31b92a03743e97992d",
-    "url": "/deskweb/static/js/main.2b16e9a1.chunk.js"
+    "revision": "07d8b767a76b910145f7",
+    "url": "/deskweb/static/js/main.782f66fa.chunk.js"
   },
   {
     "revision": "1f150a5b2e31e5707fed",
