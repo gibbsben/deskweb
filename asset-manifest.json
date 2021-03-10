@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/homelessprojectmaastricht.ml/static/css/main.157bd086.chunk.css",
-    "main.js": "/homelessprojectmaastricht.ml/static/js/main.782f66fa.chunk.js",
-    "main.js.map": "/homelessprojectmaastricht.ml/static/js/main.782f66fa.chunk.js.map",
-    "runtime-main.js": "/homelessprojectmaastricht.ml/static/js/runtime-main.95650490.js",
-    "runtime-main.js.map": "/homelessprojectmaastricht.ml/static/js/runtime-main.95650490.js.map",
-    "static/js/2.bb074f6e.chunk.js": "/homelessprojectmaastricht.ml/static/js/2.bb074f6e.chunk.js",
-    "static/js/2.bb074f6e.chunk.js.map": "/homelessprojectmaastricht.ml/static/js/2.bb074f6e.chunk.js.map",
-    "index.html": "/homelessprojectmaastricht.ml/index.html",
-    "precache-manifest.6d74d88ec77f59196bb633e68754eec7.js": "/homelessprojectmaastricht.ml/precache-manifest.6d74d88ec77f59196bb633e68754eec7.js",
-    "service-worker.js": "/homelessprojectmaastricht.ml/service-worker.js",
-    "static/css/main.157bd086.chunk.css.map": "/homelessprojectmaastricht.ml/static/css/main.157bd086.chunk.css.map",
-    "static/js/2.bb074f6e.chunk.js.LICENSE.txt": "/homelessprojectmaastricht.ml/static/js/2.bb074f6e.chunk.js.LICENSE.txt"
+    "main.css": "/deskweb/.%20/static/css/main.157bd086.chunk.css",
+    "main.js": "/deskweb/.%20/static/js/main.782f66fa.chunk.js",
+    "main.js.map": "/deskweb/.%20/static/js/main.782f66fa.chunk.js.map",
+    "runtime-main.js": "/deskweb/.%20/static/js/runtime-main.1867be13.js",
+    "runtime-main.js.map": "/deskweb/.%20/static/js/runtime-main.1867be13.js.map",
+    "static/js/2.bb074f6e.chunk.js": "/deskweb/.%20/static/js/2.bb074f6e.chunk.js",
+    "static/js/2.bb074f6e.chunk.js.map": "/deskweb/.%20/static/js/2.bb074f6e.chunk.js.map",
+    "index.html": "/deskweb/.%20/index.html",
+    "precache-manifest.890155f5fe524b415f284c0e3240dc27.js": "/deskweb/.%20/precache-manifest.890155f5fe524b415f284c0e3240dc27.js",
+    "service-worker.js": "/deskweb/.%20/service-worker.js",
+    "static/css/main.157bd086.chunk.css.map": "/deskweb/.%20/static/css/main.157bd086.chunk.css.map",
+    "static/js/2.bb074f6e.chunk.js.LICENSE.txt": "/deskweb/.%20/static/js/2.bb074f6e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.95650490.js",
+    "static/js/runtime-main.1867be13.js",
     "static/js/2.bb074f6e.chunk.js",
     "static/css/main.157bd086.chunk.css",
     "static/js/main.782f66fa.chunk.js"
