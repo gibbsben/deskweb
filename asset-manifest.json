@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/deskweb/static/css/main.157bd086.chunk.css",
-    "main.js": "/deskweb/static/js/main.782f66fa.chunk.js",
-    "main.js.map": "/deskweb/static/js/main.782f66fa.chunk.js.map",
-    "runtime-main.js": "/deskweb/static/js/runtime-main.2db1e762.js",
-    "runtime-main.js.map": "/deskweb/static/js/runtime-main.2db1e762.js.map",
-    "static/js/2.bb074f6e.chunk.js": "/deskweb/static/js/2.bb074f6e.chunk.js",
-    "static/js/2.bb074f6e.chunk.js.map": "/deskweb/static/js/2.bb074f6e.chunk.js.map",
-    "index.html": "/deskweb/index.html",
-    "precache-manifest.249f1fa4992fdd1e430c2bce347c3148.js": "/deskweb/precache-manifest.249f1fa4992fdd1e430c2bce347c3148.js",
-    "service-worker.js": "/deskweb/service-worker.js",
-    "static/css/main.157bd086.chunk.css.map": "/deskweb/static/css/main.157bd086.chunk.css.map",
-    "static/js/2.bb074f6e.chunk.js.LICENSE.txt": "/deskweb/static/js/2.bb074f6e.chunk.js.LICENSE.txt"
+    "main.css": "/gibbsben.github.io/deskweb/static/css/main.157bd086.chunk.css",
+    "main.js": "/gibbsben.github.io/deskweb/static/js/main.782f66fa.chunk.js",
+    "main.js.map": "/gibbsben.github.io/deskweb/static/js/main.782f66fa.chunk.js.map",
+    "runtime-main.js": "/gibbsben.github.io/deskweb/static/js/runtime-main.619112d7.js",
+    "runtime-main.js.map": "/gibbsben.github.io/deskweb/static/js/runtime-main.619112d7.js.map",
+    "static/js/2.bb074f6e.chunk.js": "/gibbsben.github.io/deskweb/static/js/2.bb074f6e.chunk.js",
+    "static/js/2.bb074f6e.chunk.js.map": "/gibbsben.github.io/deskweb/static/js/2.bb074f6e.chunk.js.map",
+    "index.html": "/gibbsben.github.io/deskweb/index.html",
+    "precache-manifest.7a2af40b22b18e3330392a1bc86e9ce9.js": "/gibbsben.github.io/deskweb/precache-manifest.7a2af40b22b18e3330392a1bc86e9ce9.js",
+    "service-worker.js": "/gibbsben.github.io/deskweb/service-worker.js",
+    "static/css/main.157bd086.chunk.css.map": "/gibbsben.github.io/deskweb/static/css/main.157bd086.chunk.css.map",
+    "static/js/2.bb074f6e.chunk.js.LICENSE.txt": "/gibbsben.github.io/deskweb/static/js/2.bb074f6e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2db1e762.js",
+    "static/js/runtime-main.619112d7.js",
     "static/js/2.bb074f6e.chunk.js",
     "static/css/main.157bd086.chunk.css",
     "static/js/main.782f66fa.chunk.js"
